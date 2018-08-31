@@ -1,0 +1,1 @@
+window.RESULTS.push({"options":{"screenshotOnPassed":true,"writeReportEachSpec":true,"showBrowser":true,"highlightSuspectLine":true,"driver":null,"path":"/home/rakesh/ToTal_test_cases/Group-chat/channel test cases","isSharded":true},"timer":{"stopped":"2018-07-12T14:36:36.368Z","duration":null},"counts":{"specs":0},"sequence":[]});
